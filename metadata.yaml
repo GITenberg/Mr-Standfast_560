@@ -1,0 +1,44 @@
+_repo: Mr-Standfast_560
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: "Mr Standfast is the third of five Richard Hannay novels by John Buchan,\
+  \ first published in 1919 by Hodder & Stoughton, London.\nIt is one of two Hannay\
+  \ novels set during the First World War, the other being Greenmantle (1916); Hannay's\
+  \ first and best-known adventure, The Thirty-Nine Steps (1915), is set in the period\
+  \ immediately before the war started.\nThe title refers to a character in John Bunyan's\
+  \ Pilgrim's Progress, to which there are many other references in the novel; Hannay\
+  \ uses a copy of Pilgrim's Progress to decipher coded messages from his contacts,\
+  \ and letters from his friend Peter Pienaar.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Adventure
+- Contemporary Reviews
+- World War I
+- Movie Books
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '560'
+  wikidata: Q16387145
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spy stories'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'War stories'
+- !lcsh 'Hannay, Richard (Fictitious character) -- Fiction'
+- !lcsh 'Intelligence service -- Great Britain -- Fiction'
+title: Mr. Standfast
+url: http://www.gutenberg.org/ebooks/560
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF_%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D9%81%D8%A7%D8%B3%D8%AA
+- https://en.wikipedia.org/wiki/Mr_Standfast
