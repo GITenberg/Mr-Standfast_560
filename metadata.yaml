@@ -1,5 +1,8 @@
 _repo: Mr-Standfast_560
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buchan, John
@@ -17,6 +20,8 @@ description: "Mr Standfast is the third of five Richard Hannay novels by John Bu
   \ Pilgrim's Progress, to which there are many other references in the novel; Hannay\
   \ uses a copy of Pilgrim's Progress to decipher coded messages from his contacts,\
   \ and letters from his friend Peter Pienaar.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/560#Mr-Standfast
 gutenberg_bookshelf:
 - Adventure
 - Contemporary Reviews
