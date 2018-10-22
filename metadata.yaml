@@ -1,5 +1,5 @@
 _repo: Mr-Standfast_560
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -43,6 +43,7 @@ subjects:
 - !lcsh 'War stories'
 - !lcsh 'Hannay, Richard (Fictitious character) -- Fiction'
 - !lcsh 'Intelligence service -- Great Britain -- Fiction'
+- GITenberg
 title: Mr. Standfast
 url: http://www.gutenberg.org/ebooks/560
 wikipedia:
